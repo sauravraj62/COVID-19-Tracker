@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(112, 91, 91);
+    color: rgb(0, 250, 175);
+    height: 30px;
+}
+
+.text {
+    margin: 2px;
+}
